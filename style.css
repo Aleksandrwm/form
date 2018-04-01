@@ -1,0 +1,21 @@
+form {
+  font-family: sans-serif;
+  border: 1px solid #D4DADB;
+  padding: 0 15px;
+  border:none;
+  background-color: white;
+}
+label{
+	width: 80px;
+	font-size: 14px;
+	display: inline-block;
+	padding: 0 15px 0 10px;
+}
+form input{
+	margin:10px 0 0 10px;
+	padding-right: 10px;
+	width: 150px;
+}
+form fieldset{
+	width: 300px;
+}
